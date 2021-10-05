@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\bin\Debug\jogo-gato-rato.exe
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\bin\Debug\jogo-gato-rato.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\bin\Debug\jogo-gato-rato.xml
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.vbprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo_gato_rato.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.exe.licenses
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.exe
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.xml
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo_gato_rato.desafioTimer.resources
