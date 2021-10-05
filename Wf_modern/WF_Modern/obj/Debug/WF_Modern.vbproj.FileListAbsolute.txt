@@ -1,0 +1,17 @@
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\bin\Debug\WF_Modern.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\bin\Debug\WF_Modern.exe
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\bin\Debug\WF_Modern.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\bin\Debug\WF_Modern.xml
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.exe
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.xml
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.exe.licenses
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\WF_Modern\WF_Modern\obj\Debug\WF_Modern.frmMenu.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Wf_modern\WF_Modern\obj\Debug\WF_Modern.frmDashboard.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Wf_modern\WF_Modern\obj\Debug\WF_Modern.frmExemplo2.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\Wf_modern\WF_Modern\bin\Debug\WF_Modern.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\Wf_modern\WF_Modern\obj\Debug\WF_Modern.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\Wf_modern\WF_Modern\obj\Debug\WF_Modern.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\Wf_modern\WF_Modern\obj\Debug\WF_Modern.pdb
