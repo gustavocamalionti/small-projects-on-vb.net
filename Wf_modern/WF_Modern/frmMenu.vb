@@ -16,6 +16,13 @@
         TabDashboard.Visible = False
     End Sub
 
+    Private Sub AdicionarFormPainel(ByRef formulario As Object)
+        frmSessao.TopLevel = False
+        frmSessao.Dock = DockStyle.Fill
+        pnlFundo.Controls.Add(frmSessao)
+        frmSessao.Show()
+    End Sub
+
     Private Sub btnRelatorio_Click(sender As Object, e As EventArgs) Handles btnRelatorio.Click
         pnlFundo.Controls.Clear()
         ResetarTab()
@@ -64,5 +71,13 @@
         pnlFundo.Controls.Add(frmExemplo2)
         frmExemplo2.Show()
 
+    End Sub
+
+    Private Sub btnPrincSessao_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles btnPrincSessao.ItemClick
+        pnlFundo.Controls.Clear()
+        frmSessao.TopLevel = False
+        frmSessao.Dock = DockStyle.Fill
+        pnlFundo.Controls.Add(frmSessao)
+        frmSessao.Show()
     End Sub
 End Class

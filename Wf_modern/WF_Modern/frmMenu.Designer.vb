@@ -237,7 +237,7 @@ Partial Class frmMenu
         '
         'pnlFundo
         '
-        Me.pnlFundo.Appearance.BackColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(241, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.pnlFundo.Appearance.BackColor = System.Drawing.Color.FromArgb(CType(CType(28, Byte), Integer), CType(CType(31, Byte), Integer), CType(CType(36, Byte), Integer))
         Me.pnlFundo.Appearance.Options.UseBackColor = True
         Me.pnlFundo.Dock = System.Windows.Forms.DockStyle.Fill
         Me.pnlFundo.Location = New System.Drawing.Point(197, 144)
@@ -264,6 +264,7 @@ Partial Class frmMenu
         '
         'Menu
         '
+        Me.Menu.AllowCustomization = True
         Me.Menu.ExpandCollapseItem.Id = 0
         Me.Menu.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.Menu.ExpandCollapseItem, Me.btnPrincPendencias, Me.btnPrincSessao, Me.btnPrincCliente, Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.btnRelPendencias, Me.btnRelSessao, Me.BarButtonItem4, Me.btnTeamViewer, Me.btnAnyDesk, Me.btnSites, Me.btnCompactarVersao, Me.BarButtonItem6})
         Me.Menu.Location = New System.Drawing.Point(3, 3)

@@ -9,3 +9,6 @@ c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\
 c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.xml
 c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo-gato-rato.pdb
 c:\users\usuario\documents\visual studio 2013\Projects\jogo-gato-rato\obj\Debug\jogo_gato_rato.desafioTimer.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\jogo-gato-rato\obj\Debug\jogo-gato-rato.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\jogo-gato-rato\obj\Debug\jogo-gato-rato.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\small-projects-on-vb.net\jogo-gato-rato\obj\Debug\jogo-gato-rato.pdb
